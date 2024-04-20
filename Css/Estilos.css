@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(121, 199, 101);
+    color: #807e00;
+}
+header{
+    color: rgb(219, 77, 11);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    width: 750px;
+    height: 100px;
+    font-size: 60px;
+    margin-left: 200px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#Titulo1{color: blueviolet;
+}
+.titulo2{color: #006680;
+}
+#Titulo3{display: flex; 
+        justify-content: center;
+}
